@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Memory Game</h1>
-      <h2>Bing Bong</h2>
+      <button>New Game</button>
     </div>
   );
 }
