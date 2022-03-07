@@ -1,6 +1,11 @@
 import './App.css';
 
+const images = {
+  //6 images
+}
+
 function App() {
+  
   return (
     <div className="App">
       <h1>Memory Game</h1>
