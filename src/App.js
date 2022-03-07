@@ -9,7 +9,7 @@ function App() {
 
   const turnCards = () => {
     const turnCards = [...images, ...images]
-    
+      .sort(() => Math.random() - 0.5)
   }
 
 
