@@ -1,8 +1,13 @@
 import './App.css';
 
-const images = {
-  //6 images
-}
+const images = [
+  {"src": "/img/traveler.jpeg"},
+  {"src": "/img/paimon.png"},
+  {"src": "/img/venti.webp"},
+  {"src": "/img/beidou.webp"},
+  {"src": "/img/Ei.webp"},
+  {"src": "/img/zhongli.jpeg"}
+]
 
 function App() {
   //turn cards / 12 cards
